@@ -1,0 +1,51 @@
+body{
+
+   background-image:  url("https://fondosmil.co/fondo/56873.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+.medico{
+    background-image:  url('https://fondosmil.co/fondo/56882.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.formulario{
+    text-align: center;
+    width: 40%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-bottom: 100px;
+}
+
+.datos_paciente{
+
+    background: linear-gradient(to bottom, #3498db, #ffffff);
+
+
+
+    padding: 1.5rem;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 0px;
+    align-items: center;
+
+}
+
+input, button{
+    width: 300px;
+    
+}
+
+.guardar, .ver{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

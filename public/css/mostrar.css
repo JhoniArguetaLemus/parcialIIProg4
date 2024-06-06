@@ -1,0 +1,41 @@
+
+
+
+
+
+body{
+
+    background-image: url('https://fondosmil.co/fondo/56867.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+
+}
+
+.mostrar_medico{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/007/875/493/non_2x/abstract-health-science-consist-health-plus-circle-icons-digital-technology-concept-modern-medical-on-hi-tech-future-blue-background-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    text-align: center;
+
+    font-size: 1.2rem;
+}
+table{
+    background-color: chartreuse;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+tr, td, th{
+    border: 3px solid black;
+}
+
+.mostrar_pacientes{
+    margin-top: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
